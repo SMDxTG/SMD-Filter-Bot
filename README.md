@@ -23,6 +23,38 @@ Here's a tutorial on how to deploy SMD Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https://
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
+## Feature 
+<b>
+
+- [x] Koyeb Sleeping Error Fixed
+- [x] If User Send Unwanted link it can be Auto Delete ( For Example 18+ Adult content Also )
+- [x] Ai Spell Check 
+- [x] Premium Plan Feature 
+- [x] Refer To Get Premium 
+- [x] Custom Force Subscribe
+- [x] Rename Feature & On / Off
+- [x] Premium And Refer On / Off 
+- [x] Stream Feature On / Off 
+- [x] Url Shortner On / Off  
+- [x] Pm Search On / Off
+- [x] Request To Join Force Subscribe With Auto File Send 
+- [x] Custom Stream
+- [x] Stream Feature With Many Player Support 
+- [x] Language & Season & Quality & Episode & Year Choose Option
+- [x] Auto Approve & On / Off
+- [x] Custom Url Shortner Support
+- [x] Token Verification & On / Off
+- [x] Send All Button 
+- [x] Custom Tutorial Button
+- [x] Bot Pm File Auto Delete
+
+- Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
+
+## Deployment Support Sites
+
+- [x] Koyeb & Heroku & VPS & Railway & Render
+- [x] If anything Wants Talk About Deploy - Contact [ᴏᴡɴᴇʀ](https://t.me/SMDxTG)
+
 ## Cᴏᴍᴍᴀɴᴅs
 ```
 start - sᴛᴀʀᴛɪɴɢ sᴍᴅ ғɪʟᴛᴇʀ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ
