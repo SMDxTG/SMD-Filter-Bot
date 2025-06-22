@@ -87,7 +87,7 @@ Here's a tutorial on how to deploy SMD Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https://
 <p>
 <pre>
 git clone https://github.com/SMDxTG/SMD-Filter-Bot
-cd AutoFilter
+cd SMD-Filter-Bot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -97,9 +97,7 @@ python3 bot.py
 </details>
 
 ### ᴄᴏɴᴛᴀᴄᴛ :
-<a href="https://t.me/SAM_LEEZHA"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarvendhan1006@outlook.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://t.me/SAM_Owner"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/SMD_Owner"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
