@@ -165,7 +165,7 @@ async def get_ststs(bot, message):
         free_dbSize = 512-used_dbSize
         
         if MULTIPLE_DATABASE == False:
-            await rju.edit(script.SMD_STATUS_TXT.format(total_users, totl_chats, filesp, round(used_dbSize, 2), round(free_dbSize, 2)))
+            await rju.edit(script.SMD_STATUS_TXT.format(filesp, total_users, totl_chats, round(used_dbSize, 2), round(free_dbSize, 2)))
             return 
             
         totalsec = sec_col.count_documents({})   
