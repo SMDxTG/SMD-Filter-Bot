@@ -14,23 +14,7 @@ class script(object):
 ✯ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href='https://www.koyeb.com/'>ᴡᴇʙ ᴀᴘᴘ</a>
 ✯ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : v4.54.9[ᴀᴅᴠᴀɴᴄᴇ-ᴄᴏᴅᴇ]</b>
 
-➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b></blockquote>"""
-    
-    DEL_LNK_TXT = """<b><blockquote> <u>🚫 ᴅᴇʟᴇᴛᴇᴅ ʟɪɴᴋ ᴍᴇssᴀɢᴇ ⚙️</u>
-👤ᴜsᴇʀ ɴᴀᴍᴇ : {}
-🪪ᴜsᴇʀ ɪᴅ : {}
-📚ᴜsᴇʀ ᴄʜᴀᴛ : {}
-📝ᴜsᴇʀ ᴄʜᴀᴛ ɪᴅ: {}
-🗃️ᴜsᴇʀ ᴍᴇssᴀɢᴇ : {}
-📢ғʀᴏᴍ ʙᴏᴛ ɴᴀᴍᴇ ɪs ʀᴇᴘᴏʀᴛᴇᴅ : <a href=https://t.me/{}>{}</a></b></blockquote>"""
-
-    REQALART_LNK_TXT = """<b><blockquote><u>💻 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴛʀɪɢɢᴇʀᴇᴅ🎭</u>
-👤ᴜsᴇʀ ɴᴀᴍᴇ : {}
-🪪ᴜsᴇʀ ɪᴅ : {}
-📚ᴜsᴇʀ ᴄʜᴀᴛ : {}
-📝ᴜsᴇʀ ᴄʜᴀᴛ ɪᴅ: {}
-🗃️ᴜsᴇʀ ᴍᴇssᴀɢᴇ : {}
-📢ғʀᴏᴍ ʙᴏᴛ ɴᴀᴍᴇ ɪs ʀᴇᴘᴏʀᴛᴇᴅ : <a href=https://t.me/{}>{}</a></b></blockquote>"""
+<b>➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b></b></blockquote>"""
     
     REFER_SMD_TXT = """<b><blockquote>ʀᴇғᴇʀ ғʀɪᴇɴᴅs ᴀɴᴅ ᴇᴀʀɴ ʀᴇᴡᴀʀᴅs! 💰
 
@@ -131,12 +115,28 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code></b></blockquote>"""
 
-    SMD_STATUS_TXT = """<b><blockquote><u>🌀 𝐃ᴀʀᴀʙᴀsᴇ 𝐅ᴏʀ 𝐒ᴍᴅ 🍂</u>
-🏵️ 𝐓ᴏᴛᴀʟ 𝐔sᴇʀs : <code>{}</code>
-🌹 𝐓ᴏᴛᴀʟ 𝐂ʜᴀᴛs : <code>{}</code>
-🌿 𝐓ᴏᴛᴀʟ 𝐅ɪʟᴇs : <code>{}</code>
-🌺 𝐔sᴇᴅ 𝐒ᴛᴏʀᴀɢᴇ : <code>{} Mb</code>
-🍓 𝐅ʀᴇᴇ 𝐒ᴛᴏʀᴀɢᴇ : <code>{} Mb</code> </b></blockquote>"""
+    SMD_STATUS_TXT = """<b><blockquote><u>🌀 Mᴏɴɢᴏ Dᴀʀᴀʙᴀsᴇ 🍂</u>
+🌿Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code>
+🏵️Tᴏᴛᴀʟ Usᴇʀs : <code>{}</code>
+🌹Tᴏᴛᴀʟ Cʜᴀᴛs : <code>{}</code>
+🌺Usᴇᴅ Sᴛᴏʀᴀɢᴇ : <code>{} Mb</code>
+🍓Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ : <code>{} Mb</code> </b></blockquote>"""
+
+    DEL_LNK_TXT = """<b><blockquote> <u>🚫 Dᴇʟᴇᴛᴇᴅ Lɪɴᴋ Mᴇssᴀɢᴇ ⚙️</u>
+👤Usᴇʀ Nᴀᴍᴇ : {}
+🪪Usᴇʀ Iᴅ : {}
+📚Usᴇʀ Cʜᴀᴛ : {}
+📝Usᴇʀ Cʜᴀᴛ Iᴅ: {}
+🗃️Usᴇʀ Mᴇssᴀɢᴇ : {}
+📢Fʀᴏᴍ Bᴏᴛ Nᴀᴍᴇ Is Rᴇᴘᴏʀᴛᴇᴅ : <a href=https://t.me/{}>{}</a></b></blockquote>"""
+
+    REQALART_LNK_TXT = """<b><blockquote><u>💻 Aᴜᴛᴏ Fɪʟᴛᴇʀ Tʀɪɢɢᴇʀᴇᴅ🎭</u>
+👤Usᴇʀ Nᴀᴍᴇ : {}
+🪪Usᴇʀ Iᴅ : {}
+📚Usᴇʀ Cʜᴀᴛ : {}
+📝Usᴇʀ Cʜᴀᴛ Iᴅ: {}
+🗃️Usᴇʀ Mᴇssᴀɢᴇ : {}
+📢Fʀᴏᴍ Bᴏᴛ Nᴀᴍᴇ Is Rᴇᴘᴏʀᴛᴇᴅ : <a href=https://t.me/{}>{}</a></b></blockquote>"""
     
     LOG_TEXT_G = """<b><blockquote>#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -266,7 +266,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ</b> </b></blockquote>""" 
 
     PROGRESS_BAR = """\n<b><blockquote>
-╭━━━━❰ File Is Renaming... ❱━➣
+╭━━━━❰ ғɪʟᴇ ɪs ʀᴇɴᴀᴍɪɴɢ... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -561,28 +561,28 @@ Also your tutorial will be Added Your Group...</b></blockquote>"""
 এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে...</b></blockquote>"""
 
     RENAME_TXT = """<b><blockquote>
-🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
+🌌 <b><u>ʜᴏᴡ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ</u></b>
   
-•> /set_thumb - send any picture to automatically set thumbnail.
-•> /del_thumb use this command and delete your old thumbnail.
-•> /view_thumb use this command view your current thumbnail.
+•> /set_thumb - sᴇɴᴅ ᴀɴʏ ᴘɪᴄᴛᴜʀᴇ ᴛᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
+•> /del_thumb - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴏʟᴅ ᴛʜᴜᴍʙɴᴀɪʟ.
+•> /view_thumb - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
+📑 <b><u>ʜᴏᴡ ᴛᴏ sᴇᴛ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ</u></b>
 
-•> /set_caption - set a custom caption
-•> /see_caption - see your custom caption
-•> /del_caption - delete custom caption
+•> /set_caption - sᴇᴛ ᴀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+•> /see_caption - sᴇᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+•> /del_caption - ᴅᴇʟᴇᴛᴇ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
 
-Example:- /set_caption 📕 File Name: {filename}
-💾 Size: {filesize}
-⏰ Duration: {duration}
+ᴇxᴀᴍᴘʟᴇ:- /set_caption 📕 ғɪʟᴇ ɴᴀᴍᴇ: {filename}
+💾 sɪᴢᴇ: {filesize}
+⏰ ᴅᴜʀᴀᴛɪᴏɴ: {duration}
 
-✏️ <b><u>HOW TO RENAME A FILE</u></b>
+✏️ <b><u>ʜᴏᴡ ᴛᴏ ʀᴇɴᴀᴍᴇ ᴀ ғɪʟᴇ</u></b>
 
-•> /rename - send any file and click rename option and type new file name and \nthen select [ document, video, audio ]👈 choice this.
+•> /rename - sᴇɴᴅ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ᴄʟɪᴄᴋ ʀᴇɴᴀᴍᴇ ᴏᴘᴛɪᴏɴ ᴀɴᴅ ᴛʏᴘᴇ ɴᴇᴡ ғɪʟᴇ ɴᴀᴍᴇ ᴀɴᴅ \nᴛʜᴇɴ sᴇʟᴇᴄᴛ [ document, video, audio ]👈 ᴄʜᴏɪᴄᴇ ᴛʜɪs.
 </b></blockquote>"""
 
-    STREAM_TXT = """<b><blockquote> <b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
+    STREAM_TXT = """<b><blockquote> <b><u>ʜᴏᴡ ᴛᴏ ɢᴇᴛ sᴛʀᴇᴀᴍ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :</u>
 
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b> </b></blockquote>"""
 
