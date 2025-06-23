@@ -56,8 +56,8 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/SAM_DUB_LEEZZA')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/SAM_DUB_LEZHa')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'SMD_BOTz_Support') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/SMD_Owner')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'SMD_BOTz_Support') # Support Chat Link Without https://t.me or @
+OWNER_LNK = environ.get('OWNER_LNK', 'SMD_Owner') # OWNER LNK Link Without https://t.me or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -83,8 +83,7 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
-VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
-# if verify second shortner is True then fill below url and api
+VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False)) # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 
